@@ -1,0 +1,4 @@
+[package]
+name = "try_print"
+version = "0.1.0"
+authors = ["Bruno Tavares <connect+github@bltavares.com>"]
