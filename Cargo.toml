@@ -1,4 +1,8 @@
 [package]
 name = "try_print"
-version = "0.1.0"
+version = "0.0.1"
 authors = ["Bruno Tavares <connect+github@bltavares.com>"]
+
+homepage = "https://github.com/bltavares/try_print"
+repository = "https://github.com/bltavares/try_print"
+license = "MIT/Apache-2.0"
